@@ -23,6 +23,8 @@ This project builds a tactile sensing and logging system using:
 - Auto-generates a line graph from your sensor data
 
 ---
+• Built interactive FSR logger (hardware + software) with real-time visualization and simulation.
+  [Live Demo](https://tshanto296.github.io/fsr-simulation/)
 
 ## 🗂️ Files
 | File                  | Description |
